@@ -1,0 +1,706 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Usuario/Desktop/Riscv ucycle
+Eadder
+Z1 w1621880810
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 725
+R0
+Z5 8C:/Users/Usuario/Desktop/Riscv ucycle/adder.vhd
+Z6 FC:/Users/Usuario/Desktop/Riscv ucycle/adder.vhd
+l0
+L5 1
+Vl38I5Toa1RelfcchB2^3;1
+!s100 c;F7Y1_M05@VXWQkUCc041
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1622138995
+!i10b 1
+Z9 !s108 1622138995.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/adder.vhd|
+Z11 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/adder.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aoperacoes
+R2
+R3
+R4
+DEx4 work 5 adder 0 22 l38I5Toa1RelfcchB2^3;1
+!i122 725
+l11
+L10 4
+VET>?Yh83[B;Se^OCWS3zK3
+!s100 B:b:o3G1HlA?c0i2z:61`2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eand_0
+Z14 w1621880924
+R3
+R4
+!i122 726
+R0
+Z15 8C:/Users/Usuario/Desktop/Riscv ucycle/and.vhd
+Z16 FC:/Users/Usuario/Desktop/Riscv ucycle/and.vhd
+l0
+L4 1
+V]c7a=`5hD>`V1mX1dQ<6T1
+!s100 0DjmDgdA:A:]=zKXL;@bC2
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/and.vhd|
+Z18 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/and.vhd|
+!i113 1
+R12
+R13
+Aoperacoes
+R3
+R4
+DEx4 work 5 and_0 0 22 ]c7a=`5hD>`V1mX1dQ<6T1
+!i122 726
+l10
+L9 4
+Vh]W4Y1JinHVoh1BKUCEmP0
+!s100 abFUzmGFIFoRRP07G?z1;3
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Econtrol
+Z19 w1622076208
+R3
+R4
+!i122 727
+R0
+Z20 8C:/Users/Usuario/Desktop/Riscv ucycle/control.vhd
+Z21 FC:/Users/Usuario/Desktop/Riscv ucycle/control.vhd
+l0
+L4 1
+V3?hhSTl[YFHnQI96bgBB32
+!s100 C:didFT279eZJOgVm_Hd@3
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/control.vhd|
+Z23 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/control.vhd|
+!i113 1
+R12
+R13
+Aoperacoes
+R3
+R4
+DEx4 work 7 control 0 22 3?hhSTl[YFHnQI96bgBB32
+!i122 727
+l13
+L12 116
+VP]zC3oWfaHaKiJ30oDGPz3
+!s100 zTSfD6gG9]P[k:gNaJD^o1
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Edata_rv
+Z24 w1622130879
+R2
+R3
+R4
+!i122 728
+R0
+Z25 8C:/Users/Usuario/Desktop/Riscv ucycle/data_rv.vhd
+Z26 FC:/Users/Usuario/Desktop/Riscv ucycle/data_rv.vhd
+l0
+L6 1
+VScob0eTbMzCIKJZ?GD:[;3
+!s100 ;1@z8>VAP?eLVg>I8K73m1
+R7
+33
+Z27 !s110 1622138996
+!i10b 1
+R9
+Z28 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/data_rv.vhd|
+Z29 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/data_rv.vhd|
+!i113 1
+Z30 o-work work -2008 -explicit
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 7 data_rv 0 22 Scob0eTbMzCIKJZ?GD:[;3
+!i122 728
+l41
+L15 39
+VTFZD=jINJ0XJ[1Gi0;IjK2
+!s100 ;aH?kcFT6QSQg>KekNhf`3
+R7
+33
+R27
+!i10b 1
+R9
+R28
+R29
+!i113 1
+R30
+R13
+Egenimm32
+Z31 w1622076187
+R2
+R3
+R4
+!i122 729
+R0
+Z32 8C:/Users/Usuario/Desktop/Riscv ucycle/genImm32.vhd
+Z33 FC:/Users/Usuario/Desktop/Riscv ucycle/genImm32.vhd
+l0
+L5 1
+VP53E]PG^X8FO:V>mUCNCb3
+!s100 mFjhdGzfLZ=7=4MYgoXWR3
+R7
+32
+R27
+!i10b 1
+Z34 !s108 1622138996.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/genImm32.vhd|
+Z36 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/genImm32.vhd|
+!i113 1
+R12
+R13
+Aimm
+R2
+R3
+R4
+DEx4 work 8 genimm32 0 22 P53E]PG^X8FO:V>mUCNCb3
+!i122 729
+l15
+L11 46
+VM6IW965g3kHZ99m2<bRd@0
+!s100 [A1VUE4AG2mXJjIB6[ZEo2
+R7
+32
+R27
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R12
+R13
+Emem_rv
+w1621991535
+R2
+R3
+R4
+!i122 201
+R0
+R25
+R26
+l0
+L6 1
+V:EY5FoHQCm`[4idI1?EXH0
+!s100 JLI650PQQO4gf>mYoFDRG2
+R7
+32
+!s110 1621991542
+!i10b 1
+!s108 1621991542.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/data_rv.vhd|
+R29
+!i113 1
+R12
+R13
+Emux
+Z37 w1621880852
+R3
+R4
+!i122 730
+R0
+Z38 8C:/Users/Usuario/Desktop/Riscv ucycle/mux.vhd
+Z39 FC:/Users/Usuario/Desktop/Riscv ucycle/mux.vhd
+l0
+L4 1
+V7@M^Ecl=Q8;B0L<kRCfSX1
+!s100 llUm08R@SN<T1dh<NDiz=2
+R7
+32
+R27
+!i10b 1
+R34
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/mux.vhd|
+Z41 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/mux.vhd|
+!i113 1
+R12
+R13
+Aoperacoes
+R3
+R4
+DEx4 work 3 mux 0 22 7@M^Ecl=Q8;B0L<kRCfSX1
+!i122 730
+l11
+L10 6
+V]BSBIH2imDSHdo5N<3HM^1
+!s100 h<QGzjD`[QB8hZbcYQg_>2
+R7
+32
+R27
+!i10b 1
+R34
+R40
+R41
+!i113 1
+R12
+R13
+Emux4
+Z42 w1621802566
+R3
+R4
+!i122 739
+R0
+Z43 8C:/Users/Usuario/Desktop/Riscv ucycle/mux4.vhd
+Z44 FC:/Users/Usuario/Desktop/Riscv ucycle/mux4.vhd
+l0
+L4 1
+VAN<M`4>YK2fZ9m]H5OFic0
+!s100 kXIO<@8kVVQ5fk]I<1gGi1
+R7
+32
+Z45 !s110 1622138998
+!i10b 1
+Z46 !s108 1622138998.000000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/mux4.vhd|
+Z48 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/mux4.vhd|
+!i113 1
+R12
+R13
+Aoperacoes
+R3
+R4
+DEx4 work 4 mux4 0 22 AN<M`4>YK2fZ9m]H5OFic0
+!i122 739
+l11
+L10 7
+Ve4h>8HXn6]cnBWJlQDajg3
+!s100 51P[[<2X[K<BkZ?kiF_XW0
+R7
+32
+R45
+!i10b 1
+R46
+R47
+R48
+!i113 1
+R12
+R13
+Eor_0
+Z49 w1621801036
+R3
+R4
+!i122 740
+R0
+Z50 8C:/Users/Usuario/Desktop/Riscv ucycle/or.vhd
+Z51 FC:/Users/Usuario/Desktop/Riscv ucycle/or.vhd
+l0
+L4 1
+VTYN4LX;WC5@=I6S6bIoYo0
+!s100 g8;OmgB2j6UhQcoe2YBGa3
+R7
+32
+R45
+!i10b 1
+R46
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/or.vhd|
+Z53 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/or.vhd|
+!i113 1
+R12
+R13
+Aoperacoes
+R3
+R4
+Z54 DEx4 work 4 or_0 0 22 TYN4LX;WC5@=I6S6bIoYo0
+!i122 740
+l10
+L9 4
+Z55 VfPjXe9_aeHDGH>c:=oH<C1
+Z56 !s100 Ufo_SZdd4WQoQFQ0:OYNQ2
+R7
+32
+R45
+!i10b 1
+R46
+R52
+R53
+!i113 1
+R12
+R13
+Epc
+Z57 w1621970520
+R3
+R4
+!i122 731
+R0
+Z58 8C:/Users/Usuario/Desktop/Riscv ucycle/pc.vhd
+Z59 FC:/Users/Usuario/Desktop/Riscv ucycle/pc.vhd
+l0
+L4 1
+VXbzz0VA>GZVQYBYlWmZCE3
+!s100 18]@1>EMJgU6Lll:Yf1=B0
+R7
+32
+R27
+!i10b 1
+R34
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/pc.vhd|
+Z61 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/pc.vhd|
+!i113 1
+R12
+R13
+Aoperacoes
+R3
+R4
+DEx4 work 2 pc 0 22 Xbzz0VA>GZVQYBYlWmZCE3
+!i122 731
+l13
+L12 9
+VeB87>:Bmac;1ai8OMo]SL0
+!s100 f5eXP4NMC6=<z?Q[X[]iA2
+R7
+32
+R27
+!i10b 1
+R34
+R60
+R61
+!i113 1
+R12
+R13
+Eregisters
+Z62 w1621970695
+R2
+R3
+R4
+!i122 732
+R0
+Z63 8C:/Users/Usuario/Desktop/Riscv ucycle/registers.vhd
+Z64 FC:/Users/Usuario/Desktop/Riscv ucycle/registers.vhd
+l0
+L5 1
+V30:h;dl=gG8IY0F]PYAPG3
+!s100 ZeI___k1?<[7abVzWVFcU1
+R7
+32
+Z65 !s110 1622138997
+!i10b 1
+R34
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/registers.vhd|
+Z67 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/registers.vhd|
+!i113 1
+R12
+R13
+Aoperacoes
+R2
+R3
+R4
+DEx4 work 9 registers 0 22 30:h;dl=gG8IY0F]PYAPG3
+!i122 732
+l16
+L12 16
+V?U>MC5?i2Y[VF2e]PPNHC2
+!s100 elcel=eL:DDl4dk>aHgIC1
+R7
+32
+R65
+!i10b 1
+R34
+R66
+R67
+!i113 1
+R12
+R13
+Erom_rv
+Z68 w1621972277
+R2
+R3
+R4
+!i122 733
+R0
+Z69 8C:/Users/Usuario/Desktop/Riscv ucycle/rom_rv.vhd
+Z70 FC:/Users/Usuario/Desktop/Riscv ucycle/rom_rv.vhd
+l0
+L6 1
+VaPH<>W^SJFf@4JYOeG50m2
+!s100 0DDJLFnAlF7B9<18TAekN3
+R7
+33
+R65
+!i10b 1
+Z71 !s108 1622138997.000000
+Z72 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/rom_rv.vhd|
+Z73 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/rom_rv.vhd|
+!i113 1
+R30
+R13
+Aarch
+R2
+R3
+R4
+DEx4 work 6 rom_rv 0 22 aPH<>W^SJFf@4JYOeG50m2
+!i122 733
+l35
+L11 27
+V>;:nzGnGX<aJAzk3_AEMP2
+!s100 h1UhU`JU0QV<73D6b9@VO0
+R7
+33
+R65
+!i10b 1
+R71
+R72
+R73
+!i113 1
+R30
+R13
+Eshift_left_func
+Z74 w1621995139
+R2
+R3
+R4
+!i122 734
+R0
+Z75 8C:/Users/Usuario/Desktop/Riscv ucycle/shift_left_func.vhd
+Z76 FC:/Users/Usuario/Desktop/Riscv ucycle/shift_left_func.vhd
+l0
+L5 1
+V7@h^mK5c58F5ZNZGo]L671
+!s100 `AHNkAmmMNRzRO1NYV0ca3
+R7
+32
+R65
+!i10b 1
+R71
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/shift_left_func.vhd|
+Z78 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/shift_left_func.vhd|
+!i113 1
+R12
+R13
+Aoperacoes
+R2
+R3
+R4
+DEx4 work 15 shift_left_func 0 22 7@h^mK5c58F5ZNZGo]L671
+!i122 734
+l12
+L11 4
+VK_929W?5TlVDn2H>`zzQD3
+!s100 hmS4mOJ9LdOCbYhJ2HKmC2
+R7
+32
+R65
+!i10b 1
+R71
+R77
+R78
+!i113 1
+R12
+R13
+Etestbench
+Z79 w1621910382
+R3
+R4
+!i122 738
+R0
+Z80 8C:/Users/Usuario/Desktop/Riscv ucycle/unicycle_tb.vhd
+Z81 FC:/Users/Usuario/Desktop/Riscv ucycle/unicycle_tb.vhd
+l0
+L5 1
+VgPN?F]Bo@i>RJKd;OO6CD1
+!s100 AahZUGX>7SfX2f35dGMcG2
+R7
+32
+R45
+!i10b 1
+R46
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/unicycle_tb.vhd|
+Z83 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/unicycle_tb.vhd|
+!i113 1
+R12
+R13
+Atb
+R3
+R4
+DEx4 work 9 testbench 0 22 gPN?F]Bo@i>RJKd;OO6CD1
+!i122 738
+l20
+L9 21
+VEhUfKhF;ccP41<Dz0k1cJ3
+!s100 I26z3QUjoJA<D<3j9o]3Y2
+R7
+32
+R45
+!i10b 1
+R46
+R82
+R83
+!i113 1
+R12
+R13
+Eula_control
+Z84 w1622076745
+R3
+R4
+!i122 735
+R0
+Z85 8C:/Users/Usuario/Desktop/Riscv ucycle/ula_control.vhd
+Z86 FC:/Users/Usuario/Desktop/Riscv ucycle/ula_control.vhd
+l0
+L4 1
+VeWNXC=YQB]4X<4;d9aPIM3
+!s100 JhQBI[SG4VTP6kI;^g<cm1
+R7
+32
+R65
+!i10b 1
+R71
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/ula_control.vhd|
+Z88 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/ula_control.vhd|
+!i113 1
+R12
+R13
+Aoperacoes
+R3
+R4
+DEx4 work 11 ula_control 0 22 eWNXC=YQB]4X<4;d9aPIM3
+!i122 735
+l13
+L10 83
+VIcNVGkNG<L:ma@Xbe02Nc1
+!s100 G^=HCOfhbkeS;Z1E>l2>_3
+R7
+32
+R65
+!i10b 1
+R71
+R87
+R88
+!i113 1
+R12
+R13
+Eularv
+Z89 w1622076755
+R2
+R3
+R4
+!i122 736
+R0
+Z90 8C:/Users/Usuario/Desktop/Riscv ucycle/ulaRV.vhd
+Z91 FC:/Users/Usuario/Desktop/Riscv ucycle/ulaRV.vhd
+l0
+L5 1
+Vo7nYdTB`=GPYDjQ<IaFP=0
+!s100 3F0lNlJaUnmXf_`odZPY13
+R7
+32
+R65
+!i10b 1
+R71
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/ulaRV.vhd|
+Z93 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/ulaRV.vhd|
+!i113 1
+R12
+R13
+Aula
+R2
+R3
+R4
+DEx4 work 5 ularv 0 22 o7nYdTB`=GPYDjQ<IaFP=0
+!i122 736
+l17
+L13 76
+VgKzIVoP@[2:71mDT?SC870
+!s100 5KNQjTl4AjG1WaAkMB>jU2
+R7
+32
+R65
+!i10b 1
+R71
+R92
+R93
+!i113 1
+R12
+R13
+Eunicycle
+Z94 w1622052598
+R2
+R3
+R4
+!i122 737
+R0
+Z95 8C:/Users/Usuario/Desktop/Riscv ucycle/unicycle.vhd
+Z96 FC:/Users/Usuario/Desktop/Riscv ucycle/unicycle.vhd
+l0
+L5 1
+V[gU3Tl:^U^NolJ8j0`]4>3
+!s100 db>C8YXO;M`[5VR^5eZ;F3
+R7
+32
+R45
+!i10b 1
+R71
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Usuario/Desktop/Riscv ucycle/unicycle.vhd|
+Z98 !s107 C:/Users/Usuario/Desktop/Riscv ucycle/unicycle.vhd|
+!i113 1
+R12
+R13
+Aoperacoes
+R2
+R3
+R4
+DEx4 work 8 unicycle 0 22 [gU3Tl:^U^NolJ8j0`]4>3
+!i122 737
+l160
+L9 206
+V;]Mm4:UOOeblf8b>lQKVz3
+!s100 RG0mziMgBWMj4fEgHC8:B1
+R7
+32
+R45
+!i10b 1
+R71
+R97
+R98
+!i113 1
+R12
+R13

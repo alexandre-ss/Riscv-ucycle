@@ -1,0 +1,112 @@
+{C:/Users/Usuario/Desktop/Nova pasta/control.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Usuario/Desktop/Nova pasta/control.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity control
+-- Compiling architecture operacoes of control
+
+} {} {}} {C:/Users/Usuario/Desktop/Nova pasta/mux.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Usuario/Desktop/Nova pasta/mux.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux
+-- Compiling architecture operacoes of mux
+
+} {} {}} {C:/Users/Usuario/Desktop/Nova pasta/genImm32.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Usuario/Desktop/Nova pasta/genImm32.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity genImm32
+-- Compiling architecture imm of genImm32
+
+} {} {}} {C:/Users/Usuario/Desktop/Nova pasta/and.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Usuario/Desktop/Nova pasta/and.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_0
+-- Compiling architecture operacoes of and_0
+
+} {} {}} {C:/Users/Usuario/Desktop/Nova pasta/shift_left_func.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Usuario/Desktop/Nova pasta/shift_left_func.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity shift_left_func
+-- Compiling architecture operacoes of shift_left_func
+
+} {} {}} {C:/Users/Usuario/Desktop/Nova pasta/rom_rv.vhd} {1 {vcom -work work -2008 -explicit -stats=none {C:/Users/Usuario/Desktop/Nova pasta/rom_rv.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity rom_rv
+-- Compiling architecture arch of rom_rv
+
+} {} {}} {C:/Users/Usuario/Desktop/Nova pasta/registers.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Usuario/Desktop/Nova pasta/registers.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity registers
+-- Compiling architecture operacoes of registers
+
+} {} {}} {C:/Users/Usuario/Desktop/Nova pasta/adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Usuario/Desktop/Nova pasta/adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity adder
+-- Compiling architecture operacoes of adder
+
+} {} {}} {C:/Users/Usuario/Desktop/Nova pasta/unicycle_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Usuario/Desktop/Nova pasta/unicycle_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity testbench
+-- Compiling architecture tb of testbench
+
+} {} {}} {C:/Users/Usuario/Desktop/Nova pasta/ulaRV.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Usuario/Desktop/Nova pasta/ulaRV.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ulaRV
+-- Compiling architecture ula of ulaRV
+
+} {} {}} {C:/Users/Usuario/Desktop/Nova pasta/ula_control.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Usuario/Desktop/Nova pasta/ula_control.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ula_control
+-- Compiling architecture operacoes of ula_control
+
+} {} {}} {C:/Users/Usuario/Desktop/Nova pasta/pc.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Usuario/Desktop/Nova pasta/pc.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pc
+-- Compiling architecture operacoes of pc
+
+} {} {}} {C:/Users/Usuario/Desktop/Nova pasta/unicycle.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Usuario/Desktop/Nova pasta/unicycle.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity unicycle
+-- Compiling architecture operacoes of unicycle
+
+} {} {}}
